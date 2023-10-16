@@ -12,5 +12,7 @@ If you are looking for a tech-savvy and solution-focused developer who is always
  📫  Email : mahmedsiddiqui333@gmail.com  
 LinkedIn : https://www.linkedin.com/in/muhammad-ahmed-siddiqui-webdeveloper/  
 :house: Live in Pakistan.
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAhmedSid&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
