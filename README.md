@@ -11,7 +11,7 @@
 <h3 align="center">
            <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://dev.to/fahadhghouri">Muhammad Ahmed</a></b>
+                <b>Muhammad Ahmed</b>
         </samp>
 </h3>
 <p align="center" >
@@ -33,10 +33,10 @@
 <p align="center">
 
  <a href="https://pk.linkedin.com/in/muhammad-ahmed-siddiqui-webdeveloper" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fahad"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahmed"/>
  </a>
  <a href="https://www.facebook.com/Ahmedkin" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Fahad"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Ahmed"  />
   </a> 
 </p>
 <br />
@@ -45,18 +45,17 @@
 <h2 align="center">About Me</h2>
  
 <p>
-Hi there! I am a dedicated and self-taught technology enthusiast with a focus on web 3.0. My expertise lies in JavaScript, TypeScript, React, and the use of popular libraries like Material UI and Chakra UI.
+Hi there! I am a Professional Web developer with the most modern stack which provides scalability and allows me to effectively use AI and modern techs together. 
 
-With a passion for learning and growth, I am constantly seeking new opportunities to improve my skills. Currently, I'm investigating Next.js right now to advance my development abilities. I have also built a foundation in both front-end and back-end development, thanks for my experience with the MERN stack. As a developer and lifelong learner, I bring a unique combination of technical ability and a passion for creating impactful solutions to my work. Whether working on internal projects or consulting for clients, I am committed to delivering high-quality and practical results that meet the needs of the user.
+With a passion for learning and experience in business with startup, I am constantly seeking new opportunities to improve my skills. Currently, I'm investigating Python, NLP, and GAI to advance my development abilities. I have also built a foundation in business development to understand the importance of websites for business. As a developer and lifelong learner, I also constantly work on architecture and designs for standing in the SAAS market. Whether working on internal projects or consulting for clients, I am committed to delivering high-quality and practical results that meet the needs of the customer.
 
-If you are looking for a tech-savvy and solution-focused developer who is always pushing their limits, look no further! Let's collaborate and bring your ideas to life.
+I would like to connect with the upcoming Startups of the transforming era...
 
-Do not be stranger, we can just connect
+Any developer for contribution can surely contact me. I would love to work with thinkers. Let's team up.
 
-📫 Email : mahmedsiddiqui333@gmail.com
-LinkedIn : https://www.linkedin.com/in/muhammad-ahmed-siddiqui-webdeveloper/
+📫 My Email: mahmedsiddiqui333@gmail.com
+My LinkedIn : https://www.linkedin.com/in/muhammad-ahmed-siddiqui-webdeveloper/
 🏠 Live in Pakistan.
-
 </p>
 
 <br/>
