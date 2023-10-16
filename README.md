@@ -74,11 +74,8 @@ My LinkedIn : https://www.linkedin.com/in/muhammad-ahmed-siddiqui-webdeveloper/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="60" width="60" />
-
-
- 
 </span>
+
 <br/>
 <hr/>
 <br/>
