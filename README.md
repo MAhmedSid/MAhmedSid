@@ -47,7 +47,7 @@
 <p>
 Hi there! I am a Professional Web developer with the most modern stack which provides scalability and allows me to effectively use AI and modern techs together. 
 
-With a passion for learning and experience in business with startup, I am constantly seeking new opportunities to improve my skills. Currently, I'm investigating Python, NLP, and GAI to advance my development abilities. I have also built a foundation in business development to understand the importance of websites for business. As a developer and lifelong learner, I also constantly work on architecture and designs for standing in the SAAS market. Whether working on internal projects or consulting for clients, I am committed to delivering high-quality and practical results that meet the needs of the customer.
+With a passion for learning and experience in business with startup, I am constantly seeking new opportunities to improve my skills. Currently, I'm investigating Python, NLP, and GAI to advance my development abilities. I have also built a foundation in business development to understand the importance of websites for business. As a developer and lifelong learner, I also constantly work on architecture and designs for standing in the SAAS market especially for eCommerce. Whether working on internal projects or consulting for clients, I am committed to delivering high-quality and practical results that meet the needs of the customer.
 
 I would like to connect with the upcoming Startups of the transforming era...
 
