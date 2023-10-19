@@ -54,7 +54,6 @@ I would like to connect with the upcoming Startups of the transforming era...
 Any developer for contribution can surely contact me. I would love to work with thinkers. Let's team up.
 
 📫 My Email: mahmedsiddiqui333@gmail.com
-My LinkedIn : https://www.linkedin.com/in/muhammad-ahmed-siddiqui-webdeveloper/
 🏠 Live in Pakistan.
 </p>
 
