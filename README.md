@@ -103,8 +103,6 @@ SEE YOU!
 </p>
 
 <a> 
-    <a href="https://github.com/M.AhmedSid"><img alt="Ahmed's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MAhmedSid&show_icons=true&count_private=true&theme=transparent&border_color=00000000&title_color=C06014&text_color=DDDDDD&icon_color=185ADB&bg_color=00000000" height="192px" width="49.5%"/></a>
-  
+  <a href="https://github.com/M.AhmedSid"><img alt="Ahmed's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MAhmedSid&show_icons=true&count_private=true&theme=react&border_color=00000000&title_color=C06014&text_color=DDDDDD&icon_color=185ADB&bg_color=00000000" height="192px" width="49.5%"/></a>
   <a href="https://github.com/MAhmedSid"><img alt="MAhmedSid Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MAhmedSid&langs_count=3&layout=compact&theme=react&border_color=00000000&bg_color=00000000&title_color=C06014&icon_color=185ADB" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
