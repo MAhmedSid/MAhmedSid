@@ -86,19 +86,25 @@ SEE YOU!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Graphfied">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAhmedSid&theme=radical&border=7F3FBF&background=0D1117" alt="Ahmed's GitHub streak"/>
+  
+  <a href="https://git.io/streak-stats">
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MAhmedSid&theme=transparent&hide_border=true&fire=185ADB&ring=DDDDDD&stroke=DDDDDD&currStreakLabel=C06014&currStreakNum=C06014&sideNums=DDDDDD&sideLabels=C06014&dates=DDDDDD" alt="GitHub Streak" />
+      
+    
   </a>
+  
 </p>
 
 <p align="center">
   <a href="https://github.com/Graphfied">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAhmedSid&theme=radical" alt="Ahmed's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAhmedSid&theme=darcula&bg_color=00000000" alt="Ahmed's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/M.AhmedSid"><img alt="Ahmed's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MAhmedSid&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MAhmedSid"><img alt="MAhmedSid Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MAhmedSid&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/M.AhmedSid"><img alt="Ahmed's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MAhmedSid&show_icons=true&count_private=true&theme=transparent&border_color=00000000&title_color=C06014&text_color=DDDDDD&icon_color=185ADB&bg_color=00000000" height="192px" width="49.5%"/></a>
+  
+  <a href="https://github.com/MAhmedSid"><img alt="MAhmedSid Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MAhmedSid&langs_count=3&layout=compact&theme=react&border_color=00000000&bg_color=00000000&title_color=C06014&icon_color=185ADB" height="192px" width="49.5%"/></a>
   <br/>
 </a>
