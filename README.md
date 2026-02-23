@@ -23,9 +23,6 @@
 <h2 align="center">About Me</h2>
  
 <p>
-🚀 Development with a Scalable Mindset | Exploring Cloud Infrastructure & Systems Engineering
-
-
 🎯 GOAL:
 
 Now, I’m eager to contribute to complex, real world projects that demand scalable architecture, thoughtful engineering, and creative problem solving. My goal is to continuously push my technical skills by tackling challenging products that help me grow into a well rounded software developer.
