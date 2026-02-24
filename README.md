@@ -25,7 +25,7 @@
 <p>
 🎯 GOAL:
 
-Now, I’m eager to contribute to complex, real world projects that demand scalable architecture, thoughtful engineering, and creative problem solving. My goal is to continuously push my technical skills by tackling challenging products that help me grow into a well rounded software developer.
+I contribute to complex, real world projects that demand scalable architecture, thoughtful engineering, and creative problem solving. My goal is to continuously push my technical skills by tackling challenging products that help me grow into a well rounded software developer.
 
 I believe technology is about more than writing code, it's about solving problems, improving user experience, and creating value. That's why I always focus on growing my skills through courses, research, and hands on practice with new tools.
 
@@ -33,9 +33,9 @@ I believe technology is about more than writing code, it's about solving problem
 🛠 Tech Stack:
 
 - Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, Axios
-- UI/Design: Material UI, SCSS, Tailwind CSS, Framer Motion, Shadcn UI
+- UI/Design: Framer Motion, UI frameworks (Material UI, SCSS, Tailwind CSS,Shadcn UI)
 - Backend/Cloud: Supabase, Firebase, AWS Lambda, Stripe, OpenAI, Drizzle ORM, SQL/NoSQL
-- Headless CMS: Sanity, Contentful
+- Headless CMS
 - Deployment: Vercel, Netlify Functions
 
 ⛓️‍💥 Core Features Delivered
@@ -44,6 +44,7 @@ I believe technology is about more than writing code, it's about solving problem
 - Video Streaming Platform with complete pipeline: transcoding, player setup, and delivery
 - Property eCommerce Platform for buying and selling real estate
 - HR Management System supporting multi role access and end-to-end employee lifecycle
+- Fullstack AI assistant streaming chatbot (Edge Functions + Runpod + NextJS)
 
 
 
