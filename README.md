@@ -7,16 +7,8 @@
 [![wakatime](https://wakatime.com/badge/user/5b6f5445-35e4-4074-9f21-ba4d5858f203.svg)](https://wakatime.com/@5b6f5445-35e4-4074-9f21-ba4d5858f203)
 
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>
-        &gt; Hey There!, I'm
-                <b>Muhammad Ahmed</b>
-        </samp>
-</h3>
-<p align="center" >
- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+I'm+a+Software+Developer;working+with+MERN+Stack;Web+Engineering">
-</p>
+
+
 
 
 <!-- About Section -->
@@ -61,7 +53,6 @@ I believe technology is about more than writing code, it's about solving problem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" width="60" />
