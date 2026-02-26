@@ -1,7 +1,4 @@
 
-<a href="https://komarev.com/ghpvc/?username=Graphfied">
-  <img align="right" src="https://komarev.com/ghpvc/?username=MAhmedSid&label=No.+of+Visitors&color=0e75b6&style=flat&base=267" alt="Profile visitors count" />
-</a>
 
 
 [![wakatime](https://wakatime.com/badge/user/5b6f5445-35e4-4074-9f21-ba4d5858f203.svg)](https://wakatime.com/@5b6f5445-35e4-4074-9f21-ba4d5858f203)
