@@ -22,8 +22,9 @@ I believe technology is about more than writing code, it's about solving problem
 🛠 Tech Stack:
 
 - Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, Axios
+- Backend: Python, Fast API, Mongo Db, PostgresQL
 - UI/Design: Framer Motion, UI frameworks (Material UI, SCSS, Tailwind CSS,Shadcn UI)
-- Backend/Cloud: Supabase, Firebase, AWS Lambda, Stripe, OpenAI, Drizzle ORM, SQL/NoSQL
+- Cloud: Supabase, Firebase, AWS Lambda, Drizzle and Prisma ORM, SQL/NoSQL
 - Headless CMS
 - Deployment: Vercel, Netlify Functions
 
