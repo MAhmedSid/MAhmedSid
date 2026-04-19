@@ -14,19 +14,22 @@
 <p>
 🎯 GOAL:
 
-I contribute to complex, real world projects that demand scalable architecture, thoughtful engineering, and creative problem solving. My goal is to continuously push my technical skills by tackling challenging products that help me grow into a well rounded software developer.
 
-I believe technology is about more than writing code, it's about solving problems, improving user experience, and creating value. That's why I always focus on growing my skills through courses, research, and hands on practice with new tools.
+I want to be part of a team who drives that particular niche in the world, complex systems where I can learn deeply, contribute meaningfully, and help build impactful solutions at scale. Ideally, My goal is to grow through solving problems in environments that value technical depth and creativity.
 
 
 🛠 Tech Stack:
 
-- Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, Axios
-- Backend: Node JS, Mongo Db, PostgresQL, Drizzle and Prisma ORM, Redis.
-- UI/Design: Framer Motion, UI frameworks (Material UI, SCSS, Tailwind CSS,Shadcn UI)
-- Cloud: Supabase, Firebase, AWS Lambda.
-- Headless CMS
-- 
+Languages: JavaScript, TypeScript, HTML5, CSS3
+Frameworks: React, Next.js
+Libraries: Axios, Framer Motion
+State Management: Redux, React Query
+APIs: REST APIs
+Testing: Jest
+Tools: Git, CI/CD
+Concepts: OOPs, Agile/Scrum, Responsive Web Design
+
+
 
 ⛓️‍💥 Core Features Delivered
 
@@ -37,23 +40,8 @@ I believe technology is about more than writing code, it's about solving problem
 - Fullstack AI assistant streaming chatbot (Edge Functions + Runpod + NextJS)
 
 
-
-📩 Email: mahmedsiddiqui333@gmail.com
 </p>
 
 <br/>
-<br/>
 
-## Use To Code
-
-<span>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60" />
-</span>
 
