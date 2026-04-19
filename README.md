@@ -20,14 +20,14 @@ I want to be part of a team who drives that particular niche in the world, compl
 
 🛠 Tech Stack:
 
-Languages: JavaScript, TypeScript, HTML5, CSS3
-Frameworks: React, Next.js
-Libraries: Axios, Framer Motion
-State Management: Redux, React Query
-APIs: REST APIs
-Testing: Jest
-Tools: Git, CI/CD
-Concepts: OOPs, Agile/Scrum, Responsive Web Design
+- Languages: JavaScript, TypeScript, HTML5, CSS3
+- Frameworks: React, Next.js
+- Libraries: Axios, Framer Motion
+- State Management: Redux, React Query
+- APIs: REST APIs
+- Testing: Jest
+- Tools: Git, CI/CD
+- Concepts: OOPs, Agile/Scrum, Responsive Web Design
 
 
 
