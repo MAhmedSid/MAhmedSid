@@ -26,7 +26,8 @@ I want to be part of a team who drives that particular niche in the world, compl
 - State Management: Redux, React Query
 - APIs: REST APIs
 - Testing: Jest
-- Tools: Git, CI/CD
+- Infra: Git, CI/CD
+- Tools: Figma
 - Concepts: OOPs, Agile/Scrum, Responsive Web Design
 
 
